@@ -20,7 +20,7 @@ Video of the funtioning Blockchain can be found here:
 
 [BlockChain Video Link](https://github.com/ML789/Wk18_BlockChain_Homework/blob/main/02-Media/Video_of_BlockChain.webm)
 
-**NOTE:** Raw Video file must be downloaded to be viewed 
+**NOTE:** Raw Video file must be downloaded to be viewed (Click "View Raw")
 
 ### Screenshot
 
